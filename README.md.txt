@@ -43,3 +43,7 @@ iomanip for formatted output (setw, fixed, setprecision)
 Class implementation with encapsulation
 
 Pointer-based operations
+
+## How to run
+```g++ main.cpp src/payroll_system.cpp -o a```
+./a
